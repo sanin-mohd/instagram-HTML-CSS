@@ -63,6 +63,7 @@ body{
     background: #fafafa;
     width: 70%;
     height: 5000px;
+    overflow:hidden;
     
 }
 .content1{
